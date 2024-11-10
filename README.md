@@ -9,7 +9,9 @@ Hey there! I'm a 16-year-old furry, chill and laid-back, but always on the looko
 - **He/Him/She/Her**
 
 ### Interests
+-  Listening to kets4eki, asteria and 6arelyhuman
 -  Game and data decompiling/cracking
+-  Parkour out and about
 -  Making music
 -  Playing VRChat and connecting with the community
 

@@ -6,7 +6,7 @@
 Hey there! I'm a 16-year-old furry, chill and laid-back, but always on the lookout to push boundaries and explore the unusual. Taken and happily creating my own path, I'm diving deep into tech and creative passions.
 
 ### Pronouns
-- **He/Him/She/Her**
+- **He/Him**
 
 ### Interests
 -  Listening to kets4eki, asteria and 6arelyhuman

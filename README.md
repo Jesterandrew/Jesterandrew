@@ -1,19 +1,25 @@
-# Hello, I'm Jester (Andrew)!
+### 🌱 Welcome to My Digital Garden
 
-> "We call ourselves Runners. We exist on the edge... between the gloss and the reality... the **Mirror's Edge**.. We keep out of trouble, out of sight, and the cops don't bother us. Runners see the city in a different way. We see the flow. Rooftops become pathways and conduits, possibilities and routes of escape. The flow is what keeps us running, keeps us alive."
+Hi, I'm **Kaizeh**. I am a 17-year-old IT student based in Hungary with a profound passion for pushing the boundaries of both hardware and software. Whether I am compiling a kernel from scratch or designing custom communication devices, I thrive on understanding the intricate roots of the systems we rely on every day.
 
-### About Me
-Hey there! I'm a 16-year-old furry, chill and laid-back, but always on the lookout to push boundaries and explore the unusual. Taken and happily creating my own path, I'm diving deep into tech and creative passions.
+#### 🛠️ What I Am Cultivating
 
-### Pronouns
-- **He/Him**
+* **Linux Deep-Tinkering:** I specialize in low-level system administration and optimization. My environment of choice often involves Arch Linux and CachyOS, where I focus on kernel compilation and init system modifications, such as rebuilding Runit.
+* **Mobile Exploitation & Modification:** I have a strong interest in mobile device liberation, specifically rootful iOS jailbreaking and hardware-level exploits to access full file systems.
+* **Cybersecurity & Pen-Testing:** I am currently preparing for a TDK student research project focusing on network vulnerabilities, SQL injections, DDoS mitigation, and VPN architecture using tools like Nmap and Portmaster.
+* **Aesthetic UI/UX:** Heavily inspired by the clean, striking visuals of *Mirror's Edge*, *Frutiger Aero*, and *Cyberpunk*, I enjoy designing interfaces that merge high-tech utility with stark, beautiful aesthetics.
 
-### Interests
--  Listening to kets4eki, asteria and 6arelyhuman
--  Game and data decompiling/cracking
--  Parkour out and about
--  Making music
--  Playing VRChat and connecting with the community
+#### 🌺 Current Blooms (Projects)
 
-### Fun Fact
-I'm always curious, trying to take things apart just to see how they work. Whether it's code, data, or music, I love experimenting with different tools and finding out what’s possible.
+* **BeatLink:** An ongoing custom hardware project. It is a wearable heads-up display and communication device heavily inspired by the messenger technology from *Mirror's Edge*.
+* **Interactive Portfolio:** Developing a dynamic, web-based portfolio utilizing distinct red, black, and white graphical elements and animations to showcase my work.
+
+#### 🌿 Beyond the Screen
+
+When I am not navigating the complexities of a Linux terminal or analyzing network traffic, you can find me:
+
+* Propagating peach-colored roses and practicing botany in my garden.
+* Blending custom herbal teas from lemongrass, mint, and lemon balm.
+* Enjoying the adrenaline of technical automation in *Minecraft* or the stylish combat of *Devil May Cry*.
+
+*“Growth is a beautiful thing, both in code and in nature.”*

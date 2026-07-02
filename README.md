@@ -14,12 +14,21 @@ Hi, I'm **Kaizeh**. I am a 17-year-old IT student based in Hungary with a profou
 * **BeatLink:** An ongoing custom hardware project. It is a wearable heads-up display and communication device heavily inspired by the messenger technology from *Mirror's Edge*.
 * **Interactive Portfolio:** Developing a dynamic, web-based portfolio utilizing distinct red, black, and white graphical elements and animations to showcase my work.
 
+#### 🎵 Rhythms of the System (Now Playing)
+
+Music is the sunlight that fuels my deep-focus sessions. My current rotation features a carefully curated blend of introspective lyricism, dark atmospheres, and high-energy momentum:
+
+* **Wilbur Soot** – *Jubilee Line*
+* **Sub Urban** – *Mascara*
+* **Alisa Okehazama** – *Self-Embodiment Of Perfection*
+* **Ambient & Soundtrack Selections** – Kinetic, atmospheric pulses (like the *Mirror's Edge* OST) for unbroken momentum during long coding sessions.
+
 #### 🌿 Beyond the Screen
 
 When I am not navigating the complexities of a Linux terminal or analyzing network traffic, you can find me:
 
 * Propagating peach-colored roses and practicing botany in my garden.
 * Blending custom herbal teas from lemongrass, mint, and lemon balm.
-* Enjoying the adrenaline of technical automation in *Minecraft* or the stylish combat of *Devil May Cry*.
+* Enjoying the adrenaline of technical automation in *Minecraft* or exploring deep, emotional lyrical themes.
 
 *“Growth is a beautiful thing, both in code and in nature.”*
